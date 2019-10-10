@@ -30,7 +30,7 @@ void draw()
 	text("Number of threes: " + sum3, 350, 535);
 	text("Number of fours: " + sum4, 350, 545);
 	text("Number of fives: " + sum5, 350, 555);
-	text("Number of fixes: " + sum6, 350, 565);
+	text("Number of sixes: " + sum6, 350, 565);
 
 }
 void mousePressed()
