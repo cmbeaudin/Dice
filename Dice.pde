@@ -43,8 +43,8 @@ class Die //models one single dice cube
 	
 	Die(int x, int y) //constructor
 	{
-		myX = x;
-		myY = y;
+		myX = x+2;
+		myY = y+2;
 	}
 	void roll()
 	{
